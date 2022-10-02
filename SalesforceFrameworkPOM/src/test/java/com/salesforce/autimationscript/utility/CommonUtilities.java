@@ -19,7 +19,7 @@ public class  CommonUtilities  {
 		Properties ob = new Properties();
 		ob.load(fs);
 		String value = ob.getProperty(key);
-		//System.out.println("value is" + value);
+		//System.out.println("value is  " + value);
 		return value;
 	
 	}
