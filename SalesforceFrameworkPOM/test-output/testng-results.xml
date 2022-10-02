@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-30T08:45:38 CDT" name="Suite" finished-at="2022-09-30T08:47:09 CDT" duration-ms="90501">
+    <groups>
+    </groups>
+    <test started-at="2022-09-30T08:45:38 CDT" name="Testing salesforce chrome" finished-at="2022-09-30T08:47:09 CDT" duration-ms="90501">
+      <class name="com.salesforce.automationscript.AutomationScript">
+        <test-method is-config="true" signature="setUpBeforeTest()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:45:38 CDT" name="setUpBeforeTest" finished-at="2022-09-30T08:45:38 CDT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:45:38 CDT" name="setup" finished-at="2022-09-30T08:45:40 CDT" duration-ms="2174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.salesforce.automationscript.AutomationScript.checkRememberMeTC03() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkRememberMeTC03()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:45:40 CDT" name="checkRememberMeTC03" finished-at="2022-09-30T08:46:09 CDT" duration-ms="28265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRememberMeTC03 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:09 CDT" name="tearDown" finished-at="2022-09-30T08:46:09 CDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:09 CDT" name="setup" finished-at="2022-09-30T08:46:10 CDT" duration-ms="1400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.salesforce.automationscript.AutomationScript.forgotPasswardTC04A() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="forgotPasswardTC04A()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:10 CDT" name="forgotPasswardTC04A" finished-at="2022-09-30T08:46:25 CDT" duration-ms="15266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswardTC04A -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:25 CDT" name="tearDown" finished-at="2022-09-30T08:46:26 CDT" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:26 CDT" name="setup" finished-at="2022-09-30T08:46:27 CDT" duration-ms="1152" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.salesforce.automationscript.AutomationScript.forgotPasswardTC04B() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="forgotPasswardTC04B()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:27 CDT" name="forgotPasswardTC04B" finished-at="2022-09-30T08:46:35 CDT" duration-ms="8535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswardTC04B -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:35 CDT" name="tearDown" finished-at="2022-09-30T08:46:38 CDT" duration-ms="2413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:38 CDT" name="setup" finished-at="2022-09-30T08:46:39 CDT" duration-ms="1434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.salesforce.automationscript.AutomationScript.loginErrorMessageTC01() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginErrorMessageTC01()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:39 CDT" name="loginErrorMessageTC01" finished-at="2022-09-30T08:46:48 CDT" duration-ms="8561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorMessageTC01 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:48 CDT" name="tearDown" finished-at="2022-09-30T08:46:50 CDT" duration-ms="2400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:50 CDT" name="setup" finished-at="2022-09-30T08:46:52 CDT" duration-ms="2437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.salesforce.automationscript.AutomationScript.loginToSalesForceTC02() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginToSalesForceTC02()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:46:52 CDT" name="loginToSalesForceTC02" finished-at="2022-09-30T08:47:06 CDT" duration-ms="13478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSalesForceTC02 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:47:06 CDT" name="tearDown" finished-at="2022-09-30T08:47:08 CDT" duration-ms="2412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="teardownAfterTest()[pri:0, instance:com.salesforce.automationscript.AutomationScript@4b41e4dd]" started-at="2022-09-30T08:47:08 CDT" name="teardownAfterTest" finished-at="2022-09-30T08:47:09 CDT" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterTest -->
+      </class> <!-- com.salesforce.automationscript.AutomationScript -->
+    </test> <!-- Testing salesforce chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
