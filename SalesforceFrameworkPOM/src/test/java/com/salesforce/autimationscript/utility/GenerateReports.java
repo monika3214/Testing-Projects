@@ -29,7 +29,7 @@ public class GenerateReports {
 		extent.setSystemInfo("User Name", "Monika");
 		htmlReporter.config().setDocumentTitle("Test Execution Reports");
 		htmlReporter.config().setReportName("Salesforce Automation Tests");
-		//htmlReporter.config().setTestViewChartLocation(chartLocation.TOP);
+		//  htmlReporter.config().setTestViewChartLocation(chartLocation.TOP);
 		htmlReporter.config().setTheme(Theme.STANDARD);}
 	
 		public void startSigleTestReport(String testname ) {
