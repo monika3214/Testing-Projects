@@ -1,0 +1,2542 @@
+[DEBUG] 2022-09-25 22:14:17.462 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:14:45.767 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:14:56.023 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:15:11.126 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:15:28.426 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:15:38.663 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:15:53.946 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:16:22.308 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:16:32.186 [main] BaseTest - start get driver
+[DEBUG] 2022-09-25 22:28:48.965 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:28:53.526 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:28:55.601 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:28:55.645 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:28:57.694 [main] BaseTest - text entered in password field
+[DEBUG] 2022-09-25 22:29:19.765 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:29:21.264 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:29:23.360 [main] BaseTest - text entered in user name field
+[DEBUG] 2022-09-25 22:29:27.818 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:29:29.329 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:29:31.399 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:29:31.434 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:29:33.483 [main] BaseTest - text entered in password field
+[DEBUG] 2022-09-25 22:29:42.945 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:29:45.910 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:29:47.952 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:29:47.983 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:29:50.011 [main] BaseTest - text entered in password field
+[DEBUG] 2022-09-25 22:30:00.377 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:30:04.653 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:30:06.677 [main] BaseTest - text entered in user name field
+[DEBUG] 2022-09-25 22:30:11.815 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:30:14.766 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:30:16.799 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:30:16.828 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:30:18.859 [main] BaseTest - text entered in password field
+[DEBUG] 2022-09-25 22:30:27.415 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:30:30.549 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:30:32.643 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:30:32.684 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:30:34.755 [main] BaseTest - text entered in password field
+[DEBUG] 2022-09-25 22:30:55.868 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:30:59.294 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:31:01.364 [main] BaseTest - text entered in user name field
+[DEBUG] 2022-09-25 22:31:05.787 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:31:09.121 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:31:11.217 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:31:11.260 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:31:13.331 [main] BaseTest - text entered in password field
+[DEBUG] 2022-09-25 22:56:52.273 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:56:54.503 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:56:56.580 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:56:56.625 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:56:58.666 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-25 22:57:02.796 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-25 22:57:07.740 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-25 22:57:13.960 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-25 22:57:18.229 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-25 22:57:20.233 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-25 22:57:20.343 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:57:26.318 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-25 22:57:26.378 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:57:28.440 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:57:32.822 [main] BaseTest - continue clicked
+[INFO ] 2022-09-25 22:57:32.828 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-25 22:57:32.916 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:57:34.356 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:57:36.425 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:57:40.624 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-25 22:57:43.144 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:57:44.458 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:57:46.539 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:57:46.579 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:57:48.620 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-25 22:57:53.506 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-25 22:57:55.525 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-25 22:57:55.663 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:57:58.585 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:58:00.623 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:58:00.652 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:58:02.681 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-25 22:58:06.959 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-25 22:58:12.132 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-25 22:58:12.991 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:58:19.717 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-25 22:58:19.752 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:58:21.791 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:58:26.165 [main] BaseTest - continue clicked
+[INFO ] 2022-09-25 22:58:26.166 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-25 22:58:27.104 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:58:30.122 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:58:32.158 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:58:36.381 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-25 22:58:37.201 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:58:40.475 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:58:42.519 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:58:42.549 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:58:44.581 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-25 22:58:49.800 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-25 22:58:51.814 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-25 22:58:53.148 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:58:56.174 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:58:58.240 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:58:58.280 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:59:00.347 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-25 22:59:04.436 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-25 22:59:09.314 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-25 22:59:15.066 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-25 22:59:19.357 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-25 22:59:21.373 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-25 22:59:21.484 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:59:28.919 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-25 22:59:28.972 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:59:31.032 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:59:35.390 [main] BaseTest - continue clicked
+[INFO ] 2022-09-25 22:59:35.396 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-25 22:59:35.480 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:59:38.489 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:59:40.565 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:59:44.825 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-25 22:59:45.013 [main] BaseTest - start get driver
+[INFO ] 2022-09-25 22:59:48.041 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-25 22:59:50.114 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-25 22:59:50.155 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-25 22:59:52.216 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-25 22:59:57.241 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-25 22:59:59.274 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 13:05:56.890 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:05:59.983 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:06:02.046 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:06:02.094 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:06:04.137 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:06:08.222 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 13:06:13.256 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 13:06:20.202 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 13:06:24.464 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 13:06:26.475 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 13:06:26.549 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:06:32.217 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 13:06:32.279 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:06:34.344 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:06:38.691 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 13:06:38.698 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 13:06:38.783 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:06:40.160 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:06:42.206 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:06:42.249 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:06:44.293 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:06:48.490 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 13:06:48.521 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 13:06:50.936 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:06:52.287 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:06:54.344 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:06:58.556 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 13:07:01.069 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:07:02.401 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:07:04.460 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:07:04.502 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:07:06.549 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:07:12.111 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 13:07:14.251 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 13:07:16.727 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:07:35.123 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:07:37.159 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:07:37.190 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:07:39.209 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:07:43.455 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 13:07:48.805 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 13:07:49.528 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:07:56.307 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 13:07:56.344 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:07:58.371 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:08:03.239 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 13:08:03.242 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 13:08:04.067 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:08:06.796 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:08:08.828 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:08:08.857 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:08:10.885 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:08:15.069 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 13:08:15.077 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 13:08:15.869 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:08:19.471 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:08:21.503 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:08:25.713 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 13:08:26.518 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:08:46.123 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:08:48.151 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:08:48.182 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:08:50.197 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:08:55.685 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 13:08:57.706 [main] BaseTest - 
+[DEBUG] 2022-09-27 13:08:58.469 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:09:03.897 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:09:05.939 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:09:05.979 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:09:08.030 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:09:12.103 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 13:09:17.653 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 13:09:23.683 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 13:09:27.917 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 13:09:29.933 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 13:09:30.005 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:09:38.717 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 13:09:38.768 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:09:40.817 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:09:45.227 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 13:09:45.231 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 13:09:45.293 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:09:48.714 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:09:50.749 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:09:50.796 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:09:52.834 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:09:57.072 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 13:09:57.118 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 13:09:57.233 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:10:00.464 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:10:02.508 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:10:06.726 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 13:10:09.303 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 13:10:12.513 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 13:10:14.555 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 13:10:14.599 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 13:10:16.649 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 13:10:22.466 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 13:10:24.540 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 14:44:16.209 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:44:18.704 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:44:20.767 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:44:20.814 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:44:22.856 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:44:26.926 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 14:44:31.819 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 14:44:39.153 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 14:44:43.363 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 14:44:45.378 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 14:44:45.466 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:44:51.921 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 14:44:51.986 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:44:54.055 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:44:58.408 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 14:44:58.414 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 14:44:58.465 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:45:00.004 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:45:02.043 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:45:02.110 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:45:04.161 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:45:08.361 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 14:45:08.392 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 14:45:10.827 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:45:12.188 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:45:14.252 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:45:18.463 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 14:45:21.002 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:45:22.429 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:45:24.483 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:45:24.527 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:45:26.567 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:45:31.392 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 14:45:34.732 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 14:45:37.493 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:45:40.623 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:45:42.660 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:45:42.690 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:45:44.709 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:45:48.960 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 14:45:54.790 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 14:45:55.542 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:46:02.540 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 14:46:02.576 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:46:04.599 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:46:08.947 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 14:46:08.955 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 14:46:09.795 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:46:12.431 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:46:14.456 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:46:14.484 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:46:16.502 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:46:20.680 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 14:46:20.688 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 14:46:21.430 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:46:23.987 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:46:26.019 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:46:30.215 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 14:46:30.903 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:46:33.855 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:46:35.879 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:46:35.909 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:46:37.927 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:46:42.960 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 14:46:44.992 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 14:46:46.303 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:46:49.532 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:46:51.582 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:46:51.623 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:46:53.671 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:46:57.747 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 14:47:02.593 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 14:47:08.130 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 14:47:12.356 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 14:47:14.379 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 14:47:14.473 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:47:22.516 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 14:47:22.568 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:47:24.634 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:47:29.477 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 14:47:29.481 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 14:47:29.552 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:47:32.699 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:47:34.745 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:47:34.785 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:47:36.829 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:47:41.027 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 14:47:41.059 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 14:47:43.561 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:47:46.595 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:47:48.649 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:47:52.893 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 14:47:55.467 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:47:58.493 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:48:00.546 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:48:00.587 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:48:02.624 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:48:07.495 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 14:48:09.648 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 14:57:06.814 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:57:08.961 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:57:11.016 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:57:11.064 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:57:13.109 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:57:17.188 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 14:57:22.713 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 14:57:29.040 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 14:57:33.294 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 14:57:35.312 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 14:57:35.410 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:57:40.962 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 14:57:41.035 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:57:43.099 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:57:47.442 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 14:57:47.447 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 14:57:47.501 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:57:49.897 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:57:51.940 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:57:51.983 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:57:54.025 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:57:58.193 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 14:57:58.262 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 14:58:00.687 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:58:02.076 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:58:04.142 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:58:08.319 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 14:58:10.838 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:58:12.471 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:58:14.522 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:58:14.564 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:58:16.608 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:58:21.450 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 14:58:23.462 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 14:58:26.177 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:58:29.479 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:58:31.513 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:58:31.541 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:58:33.571 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:58:37.819 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 14:58:42.897 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 14:58:43.658 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:58:50.493 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 14:58:50.529 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:58:52.553 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:58:57.205 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 14:58:57.210 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 14:58:57.946 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:59:00.874 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:59:02.898 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:59:02.926 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:59:04.949 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:59:09.130 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 14:59:09.137 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 14:59:09.962 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:59:13.861 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:59:15.883 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:59:20.103 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 14:59:20.851 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:59:23.797 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:59:25.821 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:59:25.849 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:59:27.869 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:59:33.461 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 14:59:35.480 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 14:59:36.384 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 14:59:39.401 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 14:59:41.460 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 14:59:41.500 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 14:59:43.535 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 14:59:47.611 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 14:59:52.698 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 15:00:00.554 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 15:00:04.794 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 15:00:06.808 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 15:00:06.903 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:00:14.123 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 15:00:14.180 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:00:16.235 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:00:20.843 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 15:00:20.847 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 15:00:20.914 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:00:23.938 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:00:25.975 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:00:26.019 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:00:28.061 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:00:32.246 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 15:00:32.276 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 15:00:34.774 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:00:37.871 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:00:39.933 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:00:44.142 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 15:00:44.340 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:00:47.515 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:00:49.572 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:00:49.610 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:00:51.655 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:00:59.706 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 15:01:01.720 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 15:56:50.617 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:56:53.484 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:56:55.567 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:56:55.613 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:56:57.653 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:57:01.759 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 15:57:06.730 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 15:57:13.456 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 15:57:17.694 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 15:57:19.701 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 15:57:19.797 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:57:25.840 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 15:57:25.900 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:57:27.983 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:57:32.376 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 15:57:32.381 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 15:57:32.461 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:57:34.280 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:57:36.346 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:57:36.385 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:57:38.421 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:57:42.627 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 15:57:42.667 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 15:57:45.063 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:57:46.598 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:57:48.670 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:57:52.892 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 15:57:55.399 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:57:57.022 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:57:59.113 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:57:59.155 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:58:01.192 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:58:06.244 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 15:58:08.296 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 15:58:11.077 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:58:14.365 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:58:16.392 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:58:16.422 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:58:18.440 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:58:22.697 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 15:58:27.973 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 15:58:29.021 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:58:36.111 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 15:58:36.149 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:58:38.172 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:58:42.692 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 15:58:42.698 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 15:58:43.505 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:58:46.236 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:58:48.271 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:58:48.301 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:58:50.331 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:58:54.524 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 15:58:54.533 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 15:58:55.436 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:58:59.582 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:59:01.621 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:59:05.838 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 15:59:06.704 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:59:09.871 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:59:11.906 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:59:11.934 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:59:13.967 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:59:19.267 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 15:59:21.283 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 15:59:22.340 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:59:25.664 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 15:59:27.765 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 15:59:27.805 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 15:59:29.878 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 15:59:33.974 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 15:59:38.914 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 15:59:44.675 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 15:59:48.927 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 15:59:50.937 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 15:59:51.045 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 15:59:58.459 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 15:59:58.511 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 16:00:00.576 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 16:00:05.039 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 16:00:05.043 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 16:00:07.490 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 16:00:10.843 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 16:00:12.905 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 16:00:12.949 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 16:00:14.991 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 16:00:19.215 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 16:00:19.256 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 16:00:19.381 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 16:00:22.651 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 16:00:24.744 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 16:00:29.039 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 16:00:31.619 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 16:00:34.998 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 16:00:37.072 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 16:00:37.111 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 16:00:39.185 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 16:00:44.151 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 16:00:46.171 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 20:38:15.657 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:38:19.023 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:38:21.103 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:38:21.146 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:38:23.191 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:38:27.306 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 20:38:33.076 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:38:39.959 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 20:38:44.646 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 20:38:46.654 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 20:38:46.741 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:38:52.756 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 20:38:52.815 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:38:54.893 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:38:59.253 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 20:38:59.258 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 20:38:59.320 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:39:00.781 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:39:02.836 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:39:02.875 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:39:04.916 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:39:09.088 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 20:39:09.128 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 20:39:11.559 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:39:13.024 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:39:15.089 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:39:19.297 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 20:39:21.785 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:39:23.544 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:39:25.623 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:39:25.659 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:39:27.699 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:39:32.664 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:39:34.698 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 20:39:37.532 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:39:41.035 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:39:43.060 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:39:43.091 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:39:45.111 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:39:49.373 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 20:39:54.678 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 20:39:55.641 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:40:02.831 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 20:40:02.866 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:40:04.890 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:40:09.541 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 20:40:09.545 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 20:40:10.467 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:40:13.524 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:40:15.561 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:40:15.587 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:40:17.608 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:40:21.807 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 20:40:21.817 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 20:40:22.736 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:40:25.627 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:40:27.663 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:40:32.109 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 20:40:32.986 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:40:35.869 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:40:37.914 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:40:37.942 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:40:39.965 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:40:45.334 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:40:47.359 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 20:40:48.652 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:40:52.292 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:40:54.386 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:40:54.425 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:40:56.500 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:41:00.604 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 20:41:05.493 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:41:11.325 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 20:41:15.575 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 20:41:17.587 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 20:41:17.688 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:41:25.169 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 20:41:25.220 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:41:27.296 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:41:31.930 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 20:41:31.935 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 20:41:32.005 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:41:35.123 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:41:37.199 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:41:37.233 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:41:39.306 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:41:43.525 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 20:41:43.588 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 20:41:46.068 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:41:49.305 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:41:51.391 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:41:55.785 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 20:41:55.961 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:42:01.822 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:42:03.892 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:42:03.933 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:42:05.988 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:42:10.891 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:42:12.918 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 20:45:11.307 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:45:13.659 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:45:15.747 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:45:15.791 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:45:17.833 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:45:21.929 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 20:45:26.841 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:45:33.407 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 20:45:37.734 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 20:45:39.739 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 20:45:39.817 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:45:45.392 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 20:45:45.457 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:45:47.556 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:45:51.915 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 20:45:51.921 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 20:45:51.971 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:46:03.513 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:46:05.566 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:46:05.648 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:46:07.717 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:46:11.949 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 20:46:11.983 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 20:46:14.389 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:46:16.145 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:46:18.214 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:46:22.533 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 20:46:24.996 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:46:26.492 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:46:28.537 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:46:28.584 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:46:30.624 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:46:35.515 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:46:37.540 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 20:46:40.270 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:46:43.783 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:46:45.808 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:46:45.844 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:46:47.866 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:46:52.123 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 20:46:57.429 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 20:46:58.432 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:47:05.097 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 20:47:05.133 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:47:07.164 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:47:11.474 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 20:47:11.478 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 20:47:12.413 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:47:15.299 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:47:17.326 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:47:17.352 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:47:19.366 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:47:23.976 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 20:47:23.982 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 20:47:25.174 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:48:13.392 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:48:15.455 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:48:20.049 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 20:48:20.957 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:48:23.515 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:48:25.543 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:48:25.570 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:48:27.594 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:48:32.768 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:48:34.785 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 20:48:35.907 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:48:39.042 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:48:41.105 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:48:41.146 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:48:43.214 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:48:47.301 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 20:48:52.405 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:48:58.186 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 20:49:02.488 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 20:49:04.497 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 20:49:04.562 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:49:11.937 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 20:49:11.991 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:49:14.057 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:49:18.447 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 20:49:18.452 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 20:49:18.534 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:49:21.710 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:49:23.737 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:49:23.783 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:49:25.830 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:49:30.061 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 20:49:30.086 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 20:49:32.556 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:49:35.719 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:49:37.780 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:49:42.008 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 20:49:42.174 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 20:49:45.347 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 20:49:47.410 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 20:49:47.458 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 20:49:49.507 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 20:49:54.500 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 20:50:02.127 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:09:04.431 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:09:06.914 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:09:08.976 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:09:09.025 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:09:11.078 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:09:15.153 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:09:20.624 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:09:27.204 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 21:09:31.453 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 21:09:33.481 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 21:09:33.607 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:09:39.746 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:09:39.805 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:09:41.890 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:09:46.213 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:09:46.219 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:09:46.319 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:09:47.769 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:09:49.809 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:09:49.855 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:09:51.904 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:09:56.122 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:09:56.182 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:09:56.295 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:09:57.816 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:09:59.881 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:10:04.077 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:10:04.308 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:10:05.957 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:10:08.029 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:10:08.072 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:10:10.125 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:10:14.936 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:10:16.966 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:10:19.717 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:10:22.614 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:10:24.637 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:10:24.670 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:10:26.687 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:10:30.940 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:10:36.354 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:10:37.273 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:10:44.623 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:10:44.662 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:10:46.677 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:10:50.997 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:10:51.001 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:10:51.990 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:10:55.032 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:10:57.052 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:10:57.081 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:10:59.102 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:11:03.291 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:11:03.302 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:11:04.118 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:11:07.238 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:11:09.260 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:11:13.486 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:11:14.373 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:11:17.426 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:11:19.451 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:11:19.492 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:11:21.506 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:11:26.563 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:11:28.584 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:11:30.176 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:11:33.280 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:11:35.348 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:11:35.397 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:11:37.458 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:11:41.540 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:11:48.133 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:11:54.218 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 21:11:58.465 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 21:12:00.478 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 21:12:00.588 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:12:08.225 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:12:08.288 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:12:10.362 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:12:14.717 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:12:14.722 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:12:14.796 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:12:17.874 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:12:19.910 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:12:19.958 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:12:22.014 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:12:26.222 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:12:26.264 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:12:26.379 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:12:29.396 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:12:31.457 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:12:35.679 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:12:35.876 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:12:38.967 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:12:41.054 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:12:41.097 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:12:43.151 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:12:48.296 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:12:50.336 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:14:04.866 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:14:07.074 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:14:09.144 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:14:09.192 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:14:11.253 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:14:15.330 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:14:20.161 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:14:26.127 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 21:14:30.415 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 21:14:32.436 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 21:14:34.874 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:14:40.595 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:14:40.686 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:14:42.756 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:14:47.111 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:14:47.115 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:14:47.175 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:14:48.868 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:14:50.904 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:14:50.937 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:14:52.991 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:14:57.177 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:14:57.228 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:14:57.371 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:14:59.011 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:15:01.088 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:15:05.328 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:15:07.876 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:15:10.202 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:15:12.268 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:15:12.313 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:15:14.361 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:15:19.646 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:15:21.659 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:15:24.066 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:15:26.461 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:15:28.535 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:15:28.578 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:15:30.634 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:15:35.550 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:15:41.863 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 21:15:44.710 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:15:47.963 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:15:50.000 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:15:50.032 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:15:52.063 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:15:56.318 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:16:01.863 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:16:02.733 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:16:09.617 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:16:09.653 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:16:11.675 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:16:16.010 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:16:16.014 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:16:16.914 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:16:19.527 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:16:21.554 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:16:21.584 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:16:23.619 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:16:27.807 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:16:27.816 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:16:28.843 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:16:31.910 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:16:33.934 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:16:38.152 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:16:39.114 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:16:41.864 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:16:43.901 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:16:43.931 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:16:45.957 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:16:51.297 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:16:53.332 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:16:54.446 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:16:57.225 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:16:59.251 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:16:59.280 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:17:01.302 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:17:07.018 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:17:08.073 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:17:11.617 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:17:13.708 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:17:13.753 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:17:15.834 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:17:19.934 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:17:24.783 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:17:30.514 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 21:17:34.839 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 21:17:36.867 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 21:17:36.960 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:17:45.834 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:17:45.885 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:17:47.963 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:17:52.355 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:17:52.359 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:17:52.445 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:17:55.629 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:17:57.695 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:17:57.735 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:17:59.799 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:18:04.239 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:18:04.315 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:18:06.770 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:18:10.065 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:18:12.153 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:18:16.401 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:18:16.597 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:18:19.505 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:18:21.568 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:18:21.606 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:18:23.675 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:18:28.564 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:18:31.362 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:18:33.840 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:18:36.957 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:18:39.029 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:18:39.067 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:18:41.130 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:18:46.061 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:18:52.129 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 21:38:46.492 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:38:49.581 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:38:51.664 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:38:51.707 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:38:53.747 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:38:57.831 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:39:02.732 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:39:09.774 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 21:39:14.071 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 21:39:16.087 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 21:39:16.189 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:39:22.676 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:39:22.737 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:39:24.800 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:39:29.270 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:39:29.273 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:39:31.682 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:39:33.356 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:39:35.408 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:39:35.448 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:39:37.489 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:39:41.718 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:39:41.757 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:39:41.882 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:39:43.314 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:39:45.390 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:39:49.588 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:39:49.786 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:39:51.419 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:39:53.487 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:39:53.529 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:39:55.576 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:40:00.445 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:40:03.120 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:40:05.542 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:40:07.262 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:40:09.342 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:40:09.384 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:40:11.424 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:40:16.412 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:40:22.362 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 21:40:25.283 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:40:28.762 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:40:30.784 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:40:30.818 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:40:32.845 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:40:37.104 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:40:42.389 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:40:43.356 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:40:50.440 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:40:50.477 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:40:52.512 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:40:56.839 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:40:56.844 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:40:57.721 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:41:00.573 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:41:02.607 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:41:02.635 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:41:04.657 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:41:08.859 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:41:08.866 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:41:09.807 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:41:12.722 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:41:14.754 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:41:18.979 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:41:19.921 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:41:22.713 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:41:24.744 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:41:24.772 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:41:26.793 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:41:32.170 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:41:34.189 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:41:35.312 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:41:37.952 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:41:39.981 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:41:40.010 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:41:42.040 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:41:47.695 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:41:48.684 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:41:52.566 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:41:54.638 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:41:54.677 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:41:56.747 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:42:00.857 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:42:05.988 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:42:11.639 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 21:42:15.950 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 21:42:17.962 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 21:42:18.076 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:42:25.502 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:42:25.553 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:42:27.633 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:42:32.009 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:42:32.015 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:42:32.109 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:42:35.150 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:42:37.201 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:42:37.239 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:42:39.291 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:42:43.506 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:42:43.575 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:42:43.679 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:42:46.701 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:42:48.771 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:42:53.004 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:42:53.190 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:42:56.690 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:42:58.774 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:42:58.814 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:43:00.875 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:43:06.005 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:43:08.029 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:43:08.146 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:43:11.430 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:43:13.518 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:43:13.562 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:43:15.623 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:43:20.539 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:43:26.246 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 21:55:22.667 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:55:25.292 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:55:27.349 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:55:27.399 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:55:29.453 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:55:33.534 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:55:38.405 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:55:45.184 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 21:55:49.444 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 21:55:51.452 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 21:55:51.549 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:55:58.339 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:55:58.396 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:56:00.465 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:56:05.067 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:56:05.071 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:56:05.137 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:56:06.859 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:56:08.899 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:56:08.932 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:56:10.978 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:56:15.179 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:56:15.220 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:56:15.331 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:56:18.181 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:56:20.270 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:56:24.478 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:56:26.992 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:56:28.331 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:56:30.394 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:56:30.436 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:56:32.488 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:56:37.433 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:56:39.450 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:56:41.857 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:56:43.351 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:56:45.422 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:56:45.464 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:56:47.510 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:56:52.886 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:56:59.301 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 21:57:06.651 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 21:57:15.035 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 21:57:22.363 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 21:57:22.435 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 21:57:24.520 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 21:57:29.290 [main] BaseTest - save all button clicked
+[INFO ] 2022-09-27 21:57:34.073 [main] BaseTest - post link  clicked
+[INFO ] 2022-09-27 21:57:38.270 [main] BaseTest - post text clicked
+[INFO ] 2022-09-27 21:57:38.308 [main] BaseTest - text box post text cleared
+[INFO ] 2022-09-27 21:57:40.410 [main] BaseTest - text entered in post text field
+[INFO ] 2022-09-27 21:57:47.562 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 21:57:51.682 [main] BaseTest - file link  clicked
+[INFO ] 2022-09-27 21:57:55.781 [main] BaseTest - upload file from your computer  clicked
+[INFO ] 2022-09-27 21:57:59.936 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 21:58:11.536 [main] BaseTest - upload image link  clicked
+[DEBUG] 2022-09-27 21:58:21.877 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:58:23.694 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:58:25.777 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:58:25.818 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:58:27.864 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:58:33.129 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:58:39.790 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 21:58:42.706 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:58:45.912 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:58:47.948 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:58:47.981 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:58:50.001 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:58:54.266 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 21:59:00.325 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:59:01.315 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:59:09.013 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 21:59:09.050 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:59:11.077 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:59:15.554 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 21:59:15.554 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 21:59:16.521 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:59:19.623 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:59:21.648 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:59:21.679 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:59:23.701 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:59:27.965 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 21:59:27.972 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 21:59:28.903 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:59:32.021 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:59:34.042 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:59:38.292 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 21:59:39.185 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:59:42.549 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 21:59:44.589 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 21:59:44.617 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 21:59:46.636 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 21:59:52.667 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 21:59:54.699 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 21:59:55.704 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 21:59:59.021 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:00:01.040 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:00:01.075 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:00:03.099 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:00:09.079 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:00:15.410 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:00:21.337 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 22:00:28.663 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 22:00:35.999 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 22:00:36.052 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 22:00:38.083 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 22:00:43.963 [main] BaseTest - save all button clicked
+[DEBUG] 2022-09-27 22:00:45.115 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:00:48.906 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:00:50.934 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:00:50.959 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:00:52.987 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:00:58.861 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 22:00:59.881 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:01:03.354 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:01:05.426 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:01:05.465 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:01:07.535 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:01:11.633 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 22:01:16.723 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:01:24.516 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:01:28.849 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 22:01:30.857 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 22:01:30.957 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:01:38.534 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 22:01:38.586 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:01:40.656 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:01:45.112 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 22:01:45.118 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 22:01:45.195 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:01:48.731 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:01:50.791 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:01:50.829 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:01:52.895 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:01:57.111 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 22:01:57.176 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 22:01:57.299 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:02:01.681 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:02:03.770 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:02:08.111 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 22:02:08.305 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:02:11.778 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:02:13.867 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:02:13.901 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:02:15.977 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:02:21.206 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:02:23.576 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 22:02:26.044 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:02:29.594 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:02:31.680 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:02:31.720 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:02:33.799 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:02:38.596 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:02:44.386 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:02:50.007 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 22:02:57.653 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 22:03:05.006 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 22:03:05.091 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 22:03:07.167 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 22:03:11.926 [main] BaseTest - save all button clicked
+[INFO ] 2022-09-27 22:03:16.871 [main] BaseTest - post link  clicked
+[INFO ] 2022-09-27 22:03:21.060 [main] BaseTest - post text clicked
+[INFO ] 2022-09-27 22:03:21.087 [main] BaseTest - text box post text cleared
+[INFO ] 2022-09-27 22:03:23.183 [main] BaseTest - text entered in post text field
+[INFO ] 2022-09-27 22:03:30.294 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:03:34.408 [main] BaseTest - file link  clicked
+[INFO ] 2022-09-27 22:03:38.518 [main] BaseTest - upload file from your computer  clicked
+[INFO ] 2022-09-27 22:03:42.642 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:03:53.987 [main] BaseTest - upload image link  clicked
+[DEBUG] 2022-09-27 22:04:03.032 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:04:06.572 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:04:08.652 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:04:08.691 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:04:10.757 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:04:15.705 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:04:21.706 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 22:07:05.701 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:07:08.097 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:07:10.180 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:07:10.223 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:07:12.272 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:07:16.384 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 22:07:21.442 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:07:28.232 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:07:32.461 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 22:07:34.474 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 22:07:34.597 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:07:40.558 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 22:07:40.615 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:07:42.690 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:07:47.162 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 22:07:47.166 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 22:07:47.252 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:07:49.137 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:07:51.192 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:07:51.233 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:07:53.278 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:07:57.459 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 22:07:57.502 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 22:07:57.605 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:07:59.022 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:08:01.113 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:08:05.332 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 22:08:07.905 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:08:09.405 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:08:11.462 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:08:11.503 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:08:13.544 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:08:18.406 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:08:20.723 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 22:08:23.147 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:08:24.564 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:08:26.631 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:08:26.670 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:08:28.712 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:08:34.297 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:08:42.134 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:08:48.419 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 22:08:55.793 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 22:09:03.042 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 22:09:03.128 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 22:09:05.198 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 22:09:10.536 [main] BaseTest - save all button clicked
+[INFO ] 2022-09-27 22:09:15.365 [main] BaseTest - post link  clicked
+[INFO ] 2022-09-27 22:09:19.556 [main] BaseTest - post text clicked
+[INFO ] 2022-09-27 22:09:19.589 [main] BaseTest - text box post text cleared
+[INFO ] 2022-09-27 22:09:21.698 [main] BaseTest - text entered in post text field
+[INFO ] 2022-09-27 22:09:28.839 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:09:32.956 [main] BaseTest - file link  clicked
+[INFO ] 2022-09-27 22:09:37.057 [main] BaseTest - upload file from your computer  clicked
+[INFO ] 2022-09-27 22:09:41.199 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:09:52.714 [main] BaseTest - upload image link  clicked
+[DEBUG] 2022-09-27 22:10:03.058 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:10:04.566 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:10:06.642 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:10:06.682 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:10:08.735 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:10:13.800 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:10:20.294 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 22:10:23.187 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:10:26.663 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:10:28.697 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:10:28.728 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:10:30.754 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:10:35.019 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 22:10:40.170 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 22:10:41.112 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:10:49.029 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 22:10:49.063 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:10:51.102 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:10:55.512 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 22:10:55.516 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 22:10:56.386 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:10:58.913 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:11:00.945 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:11:00.971 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:11:02.992 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:11:07.471 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 22:11:07.478 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 22:11:08.491 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:11:11.079 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:11:13.118 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:11:17.326 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 22:11:17.979 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:11:20.395 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:11:22.427 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:11:22.453 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:11:24.479 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:11:29.569 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:11:31.601 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 22:11:32.848 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:11:35.570 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:11:37.610 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:11:37.636 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:11:39.667 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:11:44.809 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:11:50.660 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:12:00.007 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 22:12:07.316 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 22:12:14.605 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 22:12:14.664 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 22:12:16.695 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 22:12:21.717 [main] BaseTest - save all button clicked
+[DEBUG] 2022-09-27 22:12:22.920 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:12:25.741 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:12:27.771 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:12:27.799 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:12:29.829 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:12:34.983 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 22:12:35.914 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:12:39.808 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:12:41.879 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:12:41.917 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:12:43.980 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:12:48.093 [main] BaseTest - checkbox clicked
+[INFO ] 2022-09-27 22:12:53.008 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:12:59.054 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:13:03.341 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-27 22:13:05.346 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-27 22:13:05.459 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:13:12.960 [main] BaseTest - forgot_password_link clicked
+[INFO ] 2022-09-27 22:13:13.009 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:13:15.081 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:13:19.569 [main] BaseTest - continue clicked
+[INFO ] 2022-09-27 22:13:19.573 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-27 22:13:19.649 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:13:22.750 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:13:24.818 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:13:24.855 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:13:26.915 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:13:31.137 [main] BaseTest - Login clicked
+[INFO ] 2022-09-27 22:13:31.201 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/
+[DEBUG] 2022-09-27 22:13:31.296 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:13:34.661 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:13:36.745 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:13:40.966 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 22:13:41.180 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:13:44.349 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:13:46.421 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:13:46.460 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:13:48.540 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:13:53.453 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:13:55.476 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-27 22:13:57.949 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:14:01.428 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:14:03.509 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:14:03.548 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:14:05.617 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:14:11.096 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:14:17.883 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:14:23.379 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 22:14:33.199 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 22:14:40.683 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 22:14:40.740 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 22:14:42.821 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 22:14:47.575 [main] BaseTest - save all button clicked
+[INFO ] 2022-09-27 22:14:52.320 [main] BaseTest - post link  clicked
+[INFO ] 2022-09-27 22:14:56.496 [main] BaseTest - post text clicked
+[INFO ] 2022-09-27 22:14:56.522 [main] BaseTest - text box post text cleared
+[INFO ] 2022-09-27 22:14:58.626 [main] BaseTest - text entered in post text field
+[INFO ] 2022-09-27 22:15:05.740 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:15:09.877 [main] BaseTest - file link  clicked
+[INFO ] 2022-09-27 22:15:13.985 [main] BaseTest - upload file from your computer  clicked
+[INFO ] 2022-09-27 22:15:18.128 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:15:29.279 [main] BaseTest - upload image link  clicked
+[DEBUG] 2022-09-27 22:16:06.936 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:16:10.092 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:16:12.178 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:16:12.215 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:16:14.279 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:16:19.253 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:16:24.873 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 22:44:28.543 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:44:31.378 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:44:33.458 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:44:33.503 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:44:35.544 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:44:40.623 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:44:46.477 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:44:52.751 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 22:45:01.987 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 22:45:09.239 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 22:45:09.310 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 22:45:11.363 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 22:45:16.072 [main] BaseTest - save all button clicked
+[INFO ] 2022-09-27 22:45:20.771 [main] BaseTest - post link  clicked
+[INFO ] 2022-09-27 22:45:24.976 [main] BaseTest - post text clicked
+[INFO ] 2022-09-27 22:45:25.009 [main] BaseTest - text box post text cleared
+[INFO ] 2022-09-27 22:45:27.134 [main] BaseTest - text entered in post text field
+[INFO ] 2022-09-27 22:45:34.287 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:45:38.421 [main] BaseTest - file link  clicked
+[INFO ] 2022-09-27 22:45:42.534 [main] BaseTest - upload file from your computer  clicked
+[INFO ] 2022-09-27 22:45:46.689 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:45:58.110 [main] BaseTest - upload image link  clicked
+[DEBUG] 2022-09-27 22:46:06.838 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:46:08.606 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:46:10.689 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:46:10.729 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:46:12.768 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:46:17.633 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:46:24.240 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 22:46:27.198 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:46:31.838 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:46:33.878 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:46:33.909 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:46:35.929 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:46:41.375 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:46:46.714 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:46:52.343 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 22:46:59.650 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 22:47:06.978 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 22:47:07.036 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 22:47:09.065 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 22:47:14.058 [main] BaseTest - save all button clicked
+[DEBUG] 2022-09-27 22:47:15.200 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:47:17.921 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:47:19.954 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:47:19.982 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:47:22.004 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:47:27.145 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 22:47:28.165 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:47:31.376 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:47:33.427 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:47:33.469 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:47:35.533 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:47:40.398 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:47:46.638 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 22:47:52.133 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 22:47:59.786 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 22:48:07.092 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 22:48:07.166 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 22:48:09.240 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 22:48:14.237 [main] BaseTest - save all button clicked
+[INFO ] 2022-09-27 22:48:19.195 [main] BaseTest - post link  clicked
+[INFO ] 2022-09-27 22:48:23.412 [main] BaseTest - post text clicked
+[INFO ] 2022-09-27 22:48:23.438 [main] BaseTest - text box post text cleared
+[INFO ] 2022-09-27 22:48:25.532 [main] BaseTest - text entered in post text field
+[INFO ] 2022-09-27 22:48:32.670 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:48:36.793 [main] BaseTest - file link  clicked
+[INFO ] 2022-09-27 22:48:40.897 [main] BaseTest - upload file from your computer  clicked
+[INFO ] 2022-09-27 22:48:45.040 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 22:48:56.497 [main] BaseTest - upload image link  clicked
+[DEBUG] 2022-09-27 22:49:07.104 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 22:49:10.146 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 22:49:12.223 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 22:49:12.262 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 22:49:14.340 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 22:49:19.213 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 22:49:24.863 [main] BaseTest - user menu clicked
+[DEBUG] 2022-09-27 23:15:35.945 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:15:38.255 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:15:40.337 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:15:40.381 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:15:42.421 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:15:47.514 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:15:57.668 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:16:03.146 [main] BaseTest - My Settings  clicked
+[INFO ] 2022-09-27 23:16:07.255 [main] BaseTest - Personal info clicked
+[INFO ] 2022-09-27 23:16:11.682 [main] BaseTest - Login history  clicked
+[INFO ] 2022-09-27 23:16:16.156 [main] BaseTest - download Login history  clicked
+[INFO ] 2022-09-27 23:16:20.241 [main] BaseTest - Email clicked
+[INFO ] 2022-09-27 23:16:24.647 [main] BaseTest - Email Setting clicked
+[INFO ] 2022-09-27 23:16:29.532 [main] BaseTest - save clicked
+[INFO ] 2022-09-27 23:16:33.655 [main] BaseTest - Calendar And Reminders clicked
+[INFO ] 2022-09-27 23:16:39.646 [main] BaseTest - Activity Reminders clicked
+[INFO ] 2022-09-27 23:16:43.734 [main] BaseTest - Open a Test Reminder clicked
+[DEBUG] 2022-09-27 23:16:46.152 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:16:47.925 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:16:49.986 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:16:50.026 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:16:52.064 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:16:57.121 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:17:02.835 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:17:09.258 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 23:17:16.789 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 23:17:24.038 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 23:17:24.128 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 23:17:26.213 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 23:17:30.987 [main] BaseTest - save all button clicked
+[INFO ] 2022-09-27 23:17:35.751 [main] BaseTest - post link  clicked
+[INFO ] 2022-09-27 23:17:39.930 [main] BaseTest - post text clicked
+[INFO ] 2022-09-27 23:17:39.962 [main] BaseTest - text box post text cleared
+[INFO ] 2022-09-27 23:17:42.053 [main] BaseTest - text entered in post text field
+[INFO ] 2022-09-27 23:17:49.200 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 23:17:53.332 [main] BaseTest - file link  clicked
+[INFO ] 2022-09-27 23:17:57.427 [main] BaseTest - upload file from your computer  clicked
+[INFO ] 2022-09-27 23:18:01.585 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 23:18:12.981 [main] BaseTest - upload image link  clicked
+[DEBUG] 2022-09-27 23:18:22.472 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:18:25.184 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:18:27.218 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:18:27.250 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:18:29.268 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:18:34.430 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:18:44.737 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:18:50.086 [main] BaseTest - My Settings  clicked
+[INFO ] 2022-09-27 23:18:54.374 [main] BaseTest - Personal info clicked
+[INFO ] 2022-09-27 23:19:00.908 [main] BaseTest - Login history  clicked
+[INFO ] 2022-09-27 23:19:10.193 [main] BaseTest - download Login history  clicked
+[INFO ] 2022-09-27 23:19:14.478 [main] BaseTest - Email clicked
+[INFO ] 2022-09-27 23:19:18.857 [main] BaseTest - Email Setting clicked
+[INFO ] 2022-09-27 23:19:23.483 [main] BaseTest - save clicked
+[INFO ] 2022-09-27 23:19:27.759 [main] BaseTest - Calendar And Reminders clicked
+[INFO ] 2022-09-27 23:19:32.195 [main] BaseTest - Activity Reminders clicked
+[INFO ] 2022-09-27 23:19:36.479 [main] BaseTest - Open a Test Reminder clicked
+[DEBUG] 2022-09-27 23:19:37.456 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:19:39.961 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:19:41.998 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:19:42.029 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:19:44.060 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:19:49.164 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:19:54.625 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:20:00.669 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 23:20:07.963 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 23:20:15.279 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 23:20:15.335 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 23:20:17.361 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 23:20:22.478 [main] BaseTest - save all button clicked
+[DEBUG] 2022-09-27 23:20:23.634 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:20:26.800 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:20:28.892 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:20:28.933 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:20:31.005 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:20:35.922 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:20:46.058 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:20:50.557 [main] BaseTest - My Settings  clicked
+[INFO ] 2022-09-27 23:20:54.642 [main] BaseTest - Personal info clicked
+[INFO ] 2022-09-27 23:20:59.041 [main] BaseTest - Login history  clicked
+[INFO ] 2022-09-27 23:21:03.277 [main] BaseTest - download Login history  clicked
+[INFO ] 2022-09-27 23:21:07.369 [main] BaseTest - Email clicked
+[INFO ] 2022-09-27 23:21:11.835 [main] BaseTest - Email Setting clicked
+[INFO ] 2022-09-27 23:21:16.557 [main] BaseTest - save clicked
+[INFO ] 2022-09-27 23:21:20.675 [main] BaseTest - Calendar And Reminders clicked
+[INFO ] 2022-09-27 23:21:25.144 [main] BaseTest - Activity Reminders clicked
+[INFO ] 2022-09-27 23:21:29.255 [main] BaseTest - Open a Test Reminder clicked
+[DEBUG] 2022-09-27 23:21:29.331 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:21:32.491 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:21:34.575 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:21:34.613 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:21:36.685 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:21:44.101 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:21:48.235 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:22:01.618 [main] BaseTest - My Profile clicked
+[INFO ] 2022-09-27 23:22:08.990 [main] BaseTest - Edit Profile clicked
+[INFO ] 2022-09-27 23:22:16.430 [main] BaseTest - About clicked
+[INFO ] 2022-09-27 23:22:16.513 [main] BaseTest - text box last name textbox cleared
+[INFO ] 2022-09-27 23:22:18.568 [main] BaseTest - text entered in last name textbox field
+[INFO ] 2022-09-27 23:22:23.310 [main] BaseTest - save all button clicked
+[INFO ] 2022-09-27 23:22:28.144 [main] BaseTest - post link  clicked
+[INFO ] 2022-09-27 23:22:32.303 [main] BaseTest - post text clicked
+[INFO ] 2022-09-27 23:22:32.340 [main] BaseTest - text box post text cleared
+[INFO ] 2022-09-27 23:22:34.406 [main] BaseTest - text entered in post text field
+[INFO ] 2022-09-27 23:22:41.515 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 23:22:45.665 [main] BaseTest - file link  clicked
+[INFO ] 2022-09-27 23:22:49.772 [main] BaseTest - upload file from your computer  clicked
+[INFO ] 2022-09-27 23:22:53.896 [main] BaseTest - share button clicked
+[INFO ] 2022-09-27 23:23:05.592 [main] BaseTest - upload image link  clicked
+[DEBUG] 2022-09-27 23:30:08.795 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:30:11.419 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:30:13.489 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:30:13.533 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:30:15.579 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:30:20.423 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:30:30.560 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:30:34.703 [main] BaseTest - Developers console clicked
+[DEBUG] 2022-09-27 23:30:47.430 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:30:50.349 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:30:52.386 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:30:52.417 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:30:54.447 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:30:59.675 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:31:09.982 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:31:14.261 [main] BaseTest - Developers console clicked
+[DEBUG] 2022-09-27 23:31:27.513 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:31:30.599 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:31:32.692 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:31:32.734 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:31:34.811 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:31:39.670 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:31:49.823 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-27 23:31:53.988 [main] BaseTest - Developers console clicked
+[DEBUG] 2022-09-27 23:38:44.511 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:38:47.769 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:38:49.855 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:38:49.900 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:38:51.953 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:38:56.980 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:39:04.304 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:39:08.902 [main] BaseTest - Accounts clicked
+[DEBUG] 2022-09-27 23:39:11.353 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:39:12.859 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:39:14.955 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:39:14.999 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:39:17.053 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:39:22.298 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:39:29.771 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:39:34.671 [main] BaseTest -  create new view clicked
+[INFO ] 2022-09-27 23:39:34.728 [main] BaseTest - text box view name cleared
+[INFO ] 2022-09-27 23:39:36.794 [main] BaseTest - text entered in view name field
+[INFO ] 2022-09-27 23:39:36.837 [main] BaseTest - text box unique view name cleared
+[INFO ] 2022-09-27 23:39:38.918 [main] BaseTest - text entered in unique view name field
+[INFO ] 2022-09-27 23:39:43.268 [main] BaseTest -  save clicked
+[DEBUG] 2022-09-27 23:39:45.698 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:39:47.949 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:39:50.022 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:39:50.063 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:39:52.114 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:39:56.987 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:40:04.325 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:40:13.940 [main] BaseTest -  Edit clicked
+[INFO ] 2022-09-27 23:40:14.001 [main] BaseTest - text box view name cleared
+[INFO ] 2022-09-27 23:40:16.094 [main] BaseTest - text entered in view name field
+[INFO ] 2022-09-27 23:40:16.148 [main] BaseTest - text box unique view name cleared
+[INFO ] 2022-09-27 23:40:18.220 [main] BaseTest - text entered in unique view name field
+[INFO ] 2022-09-27 23:40:18.341 [main] BaseTest - text box value cleared
+[INFO ] 2022-09-27 23:40:20.422 [main] BaseTest - text entered in value field
+[INFO ] 2022-09-27 23:40:25.748 [main] BaseTest -  save clicked
+[DEBUG] 2022-09-27 23:40:26.273 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:40:29.110 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:40:31.140 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:40:31.172 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:40:33.202 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:40:38.443 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 23:40:39.291 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:40:41.923 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:40:43.957 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:40:43.989 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:40:46.020 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:40:51.150 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 23:40:52.035 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:40:55.952 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:40:57.988 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:40:58.016 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:41:00.033 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:41:05.185 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 23:41:06.176 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:41:09.286 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:41:11.350 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:41:11.390 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:41:13.440 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:41:18.413 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:41:25.071 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:41:30.442 [main] BaseTest - Accounts clicked
+[DEBUG] 2022-09-27 23:41:30.546 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:41:33.589 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:41:35.673 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:41:35.710 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:41:37.779 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:41:42.684 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:41:50.262 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:41:55.116 [main] BaseTest -  create new view clicked
+[INFO ] 2022-09-27 23:41:55.163 [main] BaseTest - text box view name cleared
+[INFO ] 2022-09-27 23:41:57.236 [main] BaseTest - text entered in view name field
+[INFO ] 2022-09-27 23:41:57.279 [main] BaseTest - text box unique view name cleared
+[INFO ] 2022-09-27 23:41:59.355 [main] BaseTest - text entered in unique view name field
+[INFO ] 2022-09-27 23:42:03.872 [main] BaseTest -  save clicked
+[DEBUG] 2022-09-27 23:42:06.347 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:42:09.460 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:42:11.556 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:42:11.596 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:42:13.670 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:42:18.683 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:42:25.512 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:42:34.320 [main] BaseTest -  Edit clicked
+[INFO ] 2022-09-27 23:42:34.371 [main] BaseTest - text box view name cleared
+[INFO ] 2022-09-27 23:42:36.463 [main] BaseTest - text entered in view name field
+[INFO ] 2022-09-27 23:42:36.530 [main] BaseTest - text box unique view name cleared
+[INFO ] 2022-09-27 23:42:38.622 [main] BaseTest - text entered in unique view name field
+[INFO ] 2022-09-27 23:42:38.748 [main] BaseTest - text box value cleared
+[INFO ] 2022-09-27 23:42:40.822 [main] BaseTest - text entered in value field
+[INFO ] 2022-09-27 23:42:46.419 [main] BaseTest -  save clicked
+[DEBUG] 2022-09-27 23:48:39.137 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:48:41.644 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:48:43.715 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:48:43.760 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:48:45.798 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:48:50.728 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:49:01.649 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:49:08.046 [main] BaseTest - Account with last activity >30 days clicked
+[INFO ] 2022-09-27 23:49:12.172 [main] BaseTest - from calendar button clicked
+[ERROR] 2022-09-27 23:49:17.221 [main] BaseTest - failfrom calendar Today buttonelement is not displayed
+[INFO ] 2022-09-27 23:49:24.348 [main] BaseTest - to calendar Today button clicked
+[DEBUG] 2022-09-27 23:49:29.785 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:49:32.609 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:49:34.668 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:49:34.716 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:49:36.759 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:49:45.032 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:49:49.928 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:49:54.486 [main] BaseTest -  Merge Account clicked
+[INFO ] 2022-09-27 23:49:54.538 [main] BaseTest - text box accounts to merge cleared
+[INFO ] 2022-09-27 23:49:56.586 [main] BaseTest - text entered in accounts to merge field
+[INFO ] 2022-09-27 23:50:10.934 [main] BaseTest -  Find Accounts clicked
+[INFO ] 2022-09-27 23:50:23.263 [main] BaseTest - next clicked
+[INFO ] 2022-09-27 23:50:43.780 [main] BaseTest - merge clicked
+[DEBUG] 2022-09-27 23:51:01.600 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:51:04.865 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:51:06.905 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:51:06.933 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:51:08.954 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:51:14.287 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:51:29.695 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:51:35.248 [main] BaseTest - Account with last activity >30 days clicked
+[INFO ] 2022-09-27 23:51:39.564 [main] BaseTest - from calendar button clicked
+[ERROR] 2022-09-27 23:51:44.616 [main] BaseTest - failfrom calendar Today buttonelement is not displayed
+[INFO ] 2022-09-27 23:51:51.923 [main] BaseTest - to calendar Today button clicked
+[DEBUG] 2022-09-27 23:51:56.105 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:51:59.028 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:52:01.058 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:52:01.086 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:52:03.105 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:52:08.422 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-27 23:52:09.410 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:52:12.791 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:52:14.888 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:52:14.929 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:52:16.979 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:52:21.928 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:52:32.644 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:52:38.642 [main] BaseTest - Account with last activity >30 days clicked
+[INFO ] 2022-09-27 23:52:42.763 [main] BaseTest - from calendar button clicked
+[ERROR] 2022-09-27 23:52:47.814 [main] BaseTest - failfrom calendar Today buttonelement is not displayed
+[INFO ] 2022-09-27 23:52:54.965 [main] BaseTest - to calendar Today button clicked
+[DEBUG] 2022-09-27 23:52:58.085 [main] BaseTest - start get driver
+[INFO ] 2022-09-27 23:53:01.261 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-27 23:53:03.344 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-27 23:53:03.386 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-27 23:53:05.460 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-27 23:53:10.518 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-27 23:53:16.801 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-27 23:53:21.338 [main] BaseTest -  Merge Account clicked
+[INFO ] 2022-09-27 23:53:21.385 [main] BaseTest - text box accounts to merge cleared
+[INFO ] 2022-09-27 23:53:23.428 [main] BaseTest - text entered in accounts to merge field
+[INFO ] 2022-09-27 23:53:35.793 [main] BaseTest -  Find Accounts clicked
+[INFO ] 2022-09-27 23:53:48.182 [main] BaseTest - next clicked
+[INFO ] 2022-09-27 23:54:08.271 [main] BaseTest - merge clicked
+[DEBUG] 2022-09-28 00:11:37.332 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:11:39.771 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:11:41.872 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:11:41.932 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:11:43.990 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:11:49.020 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:11:59.976 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-28 00:12:07.238 [main] BaseTest - Account with last activity >30 days clicked
+[INFO ] 2022-09-28 00:12:11.395 [main] BaseTest - from calendar button clicked
+[ERROR] 2022-09-28 00:12:16.463 [main] BaseTest - failfrom calendar Today buttonelement is not displayed
+[INFO ] 2022-09-28 00:12:23.633 [main] BaseTest - to calendar Today button clicked
+[DEBUG] 2022-09-28 00:12:26.827 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:12:28.640 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:12:30.750 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:12:30.832 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:12:32.894 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:12:38.449 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:13:00.568 [main] BaseTest - Opportunities clicked
+[INFO ] 2022-09-28 00:13:05.402 [main] BaseTest - create new clicked
+[INFO ] 2022-09-28 00:13:10.145 [main] BaseTest - click Opportunities clicked
+[INFO ] 2022-09-28 00:13:10.262 [main] BaseTest - text box opportunity name cleared
+[INFO ] 2022-09-28 00:13:12.330 [main] BaseTest - text entered in opportunity name field
+[INFO ] 2022-09-28 00:13:12.438 [main] BaseTest - text box Account name cleared
+[INFO ] 2022-09-28 00:13:14.537 [main] BaseTest - text entered in Account name field
+[INFO ] 2022-09-28 00:13:18.675 [main] BaseTest - closing date clicked
+[INFO ] 2022-09-28 00:13:22.814 [main] BaseTest - Today clicked
+[INFO ] 2022-09-28 00:13:27.608 [main] BaseTest - save clicked
+[DEBUG] 2022-09-28 00:13:30.037 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:13:32.017 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:13:34.129 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:13:34.212 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:13:36.271 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:13:41.273 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:14:04.182 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:14:08.581 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-28 00:14:15.908 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-28 00:14:19.015 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:14:21.158 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:14:21.266 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:14:23.370 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:14:35.543 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:14:43.028 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:14:48.685 [main] BaseTest - Go clicked
+[INFO ] 2022-09-28 00:14:48.693 [main] BaseTest - Leads ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:14:48.800 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:14:50.522 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:14:52.629 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:14:52.708 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:14:54.768 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:15:00.119 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:15:24.478 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:15:28.848 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-28 00:15:36.169 [main] BaseTest - Logout clicked
+[DEBUG] 2022-09-28 00:15:36.251 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:15:37.973 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:15:40.063 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:15:40.135 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:15:42.205 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:15:47.242 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:15:55.505 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:15:59.855 [main] BaseTest - My Unread Lead  clicked
+[DEBUG] 2022-09-28 00:16:02.435 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:16:04.384 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:16:06.477 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:16:06.533 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:16:08.589 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:16:13.512 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:16:29.397 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-28 00:16:44.617 [main] BaseTest -  Merge Account clicked
+[INFO ] 2022-09-28 00:16:44.731 [main] BaseTest - text box accounts to merge cleared
+[INFO ] 2022-09-28 00:16:46.792 [main] BaseTest - text entered in accounts to merge field
+[INFO ] 2022-09-28 00:17:01.367 [main] BaseTest -  Find Accounts clicked
+[INFO ] 2022-09-28 00:17:15.344 [main] BaseTest - next clicked
+[INFO ] 2022-09-28 00:17:37.372 [main] BaseTest - merge clicked
+[DEBUG] 2022-09-28 00:17:52.562 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:17:54.462 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:17:56.571 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:17:56.654 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:17:58.738 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:18:03.845 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:18:10.532 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:18:15.108 [main] BaseTest - create new clicked
+[INFO ] 2022-09-28 00:18:19.865 [main] BaseTest - click lead clicked
+[INFO ] 2022-09-28 00:18:19.978 [main] BaseTest - text box Last name cleared
+[INFO ] 2022-09-28 00:18:22.079 [main] BaseTest - text entered in Last name field
+[INFO ] 2022-09-28 00:18:22.179 [main] BaseTest - text box Account name cleared
+[INFO ] 2022-09-28 00:18:24.288 [main] BaseTest - text entered in Account name field
+[INFO ] 2022-09-28 00:18:31.674 [main] BaseTest - save clicked
+[INFO ] 2022-09-28 00:18:31.681 [main] BaseTest - Lead: abcd ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:18:34.101 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:18:35.771 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:18:37.873 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:18:37.922 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:18:39.980 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:18:44.887 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:18:52.016 [main] BaseTest - Opportunities clicked
+[DEBUG] 2022-09-28 00:18:54.985 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:18:56.725 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:18:58.833 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:18:58.891 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:19:00.943 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:19:05.867 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:19:15.469 [main] BaseTest - Opportunities clicked
+[INFO ] 2022-09-28 00:19:20.722 [main] BaseTest - opportunity pipeline clicked
+[INFO ] 2022-09-28 00:19:20.731 [main] BaseTest - Opportunity Pipeline ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:19:20.905 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:19:22.710 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:19:24.803 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:19:24.886 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:19:26.935 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:19:31.895 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:19:40.528 [main] BaseTest - Opportunities clicked
+[INFO ] 2022-09-28 00:19:45.701 [main] BaseTest - Run Report clicked
+[INFO ] 2022-09-28 00:19:45.710 [main] BaseTest - Opportunity Report ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:19:45.804 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:19:47.321 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:19:49.415 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:19:49.494 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:19:51.540 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:19:56.653 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:20:04.517 [main] BaseTest - Opportunities clicked
+[INFO ] 2022-09-28 00:20:10.457 [main] BaseTest - Stuck opportunity clicked
+[INFO ] 2022-09-28 00:20:10.458 [main] BaseTest - Stuck Opportunities ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:20:10.637 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:20:12.151 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:20:14.261 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:20:14.317 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:20:16.388 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:20:21.572 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:20:32.351 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:20:37.940 [main] BaseTest - Go clicked
+[INFO ] 2022-09-28 00:20:37.952 [main] BaseTest - Leads ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:20:38.952 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:20:44.776 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:20:46.816 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:20:46.849 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:20:48.890 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:20:54.135 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:21:06.055 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-28 00:21:11.961 [main] BaseTest - Account with last activity >30 days clicked
+[INFO ] 2022-09-28 00:21:16.289 [main] BaseTest - from calendar button clicked
+[ERROR] 2022-09-28 00:21:21.322 [main] BaseTest - failfrom calendar Today buttonelement is not displayed
+[INFO ] 2022-09-28 00:21:28.658 [main] BaseTest - to calendar Today button clicked
+[DEBUG] 2022-09-28 00:21:33.628 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:21:36.912 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:21:38.952 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:21:38.998 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:21:41.029 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:21:46.211 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:21:47.597 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:21:50.635 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:21:52.667 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:21:52.704 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:21:54.738 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:21:59.942 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:22:04.430 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:22:07.705 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:22:09.759 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:22:09.797 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:22:11.826 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:22:17.250 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:22:18.634 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:22:22.134 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:22:24.169 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:22:24.231 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:22:26.268 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:22:31.522 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:22:32.885 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:22:36.105 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:22:38.139 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:22:38.173 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:22:40.192 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:22:45.344 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:22:46.742 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:22:49.809 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:22:51.844 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:22:51.879 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:22:53.908 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:22:59.315 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:23:00.819 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:23:04.855 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:23:06.895 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:23:06.933 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:23:08.962 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:23:14.050 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:23:14.885 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:23:18.036 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:23:20.065 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:23:20.098 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:23:22.135 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:23:27.290 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:23:28.749 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:23:31.843 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:23:33.873 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:23:33.907 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:23:35.944 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:23:41.898 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:23:43.338 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:23:46.756 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:23:48.795 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:23:48.827 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:23:50.846 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:23:56.411 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:23:57.894 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:24:00.846 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:24:02.890 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:24:02.923 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:24:04.961 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:24:10.524 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-28 00:24:12.185 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:24:15.635 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:24:17.762 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:24:17.866 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:24:19.959 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:24:25.060 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:24:35.962 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-28 00:24:42.539 [main] BaseTest - Account with last activity >30 days clicked
+[INFO ] 2022-09-28 00:24:46.679 [main] BaseTest - from calendar button clicked
+[ERROR] 2022-09-28 00:24:51.715 [main] BaseTest - failfrom calendar Today buttonelement is not displayed
+[INFO ] 2022-09-28 00:24:58.881 [main] BaseTest - to calendar Today button clicked
+[DEBUG] 2022-09-28 00:25:02.070 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:25:05.405 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:25:07.525 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:25:07.609 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:25:09.701 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:25:24.344 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:25:32.227 [main] BaseTest - Opportunities clicked
+[INFO ] 2022-09-28 00:25:36.513 [main] BaseTest - create new clicked
+[INFO ] 2022-09-28 00:25:41.318 [main] BaseTest - click Opportunities clicked
+[INFO ] 2022-09-28 00:25:41.401 [main] BaseTest - text box opportunity name cleared
+[INFO ] 2022-09-28 00:25:43.480 [main] BaseTest - text entered in opportunity name field
+[INFO ] 2022-09-28 00:25:43.567 [main] BaseTest - text box Account name cleared
+[INFO ] 2022-09-28 00:25:45.676 [main] BaseTest - text entered in Account name field
+[INFO ] 2022-09-28 00:25:49.797 [main] BaseTest - closing date clicked
+[INFO ] 2022-09-28 00:25:53.934 [main] BaseTest - Today clicked
+[INFO ] 2022-09-28 00:25:58.864 [main] BaseTest - save clicked
+[DEBUG] 2022-09-28 00:25:58.984 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:26:02.237 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:26:04.349 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:26:04.435 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:26:06.528 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:26:11.546 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:26:24.522 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:26:29.079 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-28 00:26:36.417 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-28 00:26:39.530 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:26:41.664 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:26:41.728 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:26:43.823 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:26:48.575 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:26:56.556 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:27:02.204 [main] BaseTest - Go clicked
+[INFO ] 2022-09-28 00:27:02.208 [main] BaseTest - Leads ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:27:02.332 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:27:05.570 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:27:07.681 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:27:07.771 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:27:09.852 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:27:14.950 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:27:22.797 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:27:27.108 [main] BaseTest - user menu clicked
+[INFO ] 2022-09-28 00:27:34.591 [main] BaseTest - Logout clicked
+[DEBUG] 2022-09-28 00:27:34.693 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:27:38.051 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:27:40.142 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:27:40.193 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:27:42.267 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:27:47.160 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:28:00.066 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:28:04.438 [main] BaseTest - My Unread Lead  clicked
+[DEBUG] 2022-09-28 00:28:04.716 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:28:08.446 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:28:10.577 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:28:10.669 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:28:12.756 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:28:17.739 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:28:24.940 [main] BaseTest - Accounts clicked
+[INFO ] 2022-09-28 00:28:34.427 [main] BaseTest -  Merge Account clicked
+[INFO ] 2022-09-28 00:28:34.528 [main] BaseTest - text box accounts to merge cleared
+[INFO ] 2022-09-28 00:28:36.603 [main] BaseTest - text entered in accounts to merge field
+[INFO ] 2022-09-28 00:28:51.621 [main] BaseTest -  Find Accounts clicked
+[INFO ] 2022-09-28 00:29:06.883 [main] BaseTest - next clicked
+[INFO ] 2022-09-28 00:29:27.891 [main] BaseTest - merge clicked
+[DEBUG] 2022-09-28 00:29:43.043 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:29:46.713 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:29:48.833 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:29:48.937 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:29:51.033 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:29:56.030 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:30:04.895 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:30:09.189 [main] BaseTest - create new clicked
+[INFO ] 2022-09-28 00:30:14.211 [main] BaseTest - click lead clicked
+[INFO ] 2022-09-28 00:30:14.313 [main] BaseTest - text box Last name cleared
+[INFO ] 2022-09-28 00:30:16.406 [main] BaseTest - text entered in Last name field
+[INFO ] 2022-09-28 00:30:16.508 [main] BaseTest - text box Account name cleared
+[INFO ] 2022-09-28 00:30:18.608 [main] BaseTest - text entered in Account name field
+[INFO ] 2022-09-28 00:30:25.041 [main] BaseTest - save clicked
+[INFO ] 2022-09-28 00:30:25.045 [main] BaseTest - Lead: abcd ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:30:25.168 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:30:28.519 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:30:30.648 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:30:30.742 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:30:32.828 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:30:39.880 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:30:47.683 [main] BaseTest - Opportunities clicked
+[DEBUG] 2022-09-28 00:30:50.518 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:30:53.794 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:30:55.902 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:30:56.007 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:30:58.076 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:31:03.058 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:31:10.511 [main] BaseTest - Opportunities clicked
+[INFO ] 2022-09-28 00:31:16.214 [main] BaseTest - opportunity pipeline clicked
+[INFO ] 2022-09-28 00:31:16.219 [main] BaseTest - Opportunity Pipeline ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:31:16.382 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:31:19.664 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:31:21.778 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:31:21.882 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:31:23.982 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:31:28.956 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:31:35.963 [main] BaseTest - Opportunities clicked
+[INFO ] 2022-09-28 00:31:43.287 [main] BaseTest - Run Report clicked
+[INFO ] 2022-09-28 00:31:43.290 [main] BaseTest - Opportunity Report ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:31:43.414 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:31:47.203 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:31:49.318 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:31:49.428 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:31:51.516 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:31:56.720 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:32:06.031 [main] BaseTest - Opportunities clicked
+[INFO ] 2022-09-28 00:32:12.196 [main] BaseTest - Stuck opportunity clicked
+[INFO ] 2022-09-28 00:32:12.205 [main] BaseTest - Stuck Opportunities ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-28 00:32:12.408 [main] BaseTest - start get driver
+[INFO ] 2022-09-28 00:32:15.745 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-28 00:32:17.839 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-28 00:32:17.884 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-28 00:32:19.956 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-28 00:32:24.979 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-28 00:32:32.470 [main] BaseTest - Lead Tab clicked
+[INFO ] 2022-09-28 00:32:37.699 [main] BaseTest - Go clicked
+[INFO ] 2022-09-28 00:32:37.705 [main] BaseTest - Leads ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-29 19:49:42.364 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 19:49:46.668 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 19:49:48.762 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 19:49:48.816 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 19:49:50.865 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 19:49:55.808 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 19:50:03.000 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 19:50:06.971 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 19:50:09.017 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 19:50:09.060 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 19:50:11.093 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 19:50:16.368 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 19:50:19.439 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 19:50:22.966 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 19:50:25.038 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 19:50:25.089 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 19:50:27.167 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 19:50:32.217 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 20:19:35.644 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 20:19:38.136 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 20:19:40.253 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 20:19:40.307 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 20:19:42.358 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 20:19:47.324 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 20:51:05.713 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 20:51:08.882 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 20:51:10.962 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 20:51:11.016 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 20:51:13.069 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 20:51:17.315 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 20:51:17.463 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 20:51:18.922 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 20:51:21.009 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 20:51:21.060 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 20:51:23.118 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 20:51:28.488 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:11:59.270 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:12:07.850 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-29 22:12:07.935 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:12:10.037 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:12:10.105 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:12:12.187 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:12:17.851 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-29 22:12:24.302 [main] BaseTest - user nav clicked
+[DEBUG] 2022-09-29 22:12:28.747 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:12:30.194 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:12:32.279 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:12:32.333 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:12:34.372 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:12:38.618 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:12:38.819 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:12:40.229 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:12:42.308 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:12:42.359 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:12:44.405 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:12:49.367 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:15:41.410 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:15:47.778 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-29 22:15:47.856 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:15:49.946 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:15:50.010 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:15:52.078 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:15:57.790 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-29 22:16:03.582 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-29 22:16:07.717 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-29 22:16:07.722 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-29 22:16:10.157 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:16:12.380 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:16:14.469 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:16:14.519 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:16:16.570 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:16:20.820 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:16:23.329 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:16:24.734 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:16:26.801 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:16:26.852 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:16:28.915 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:16:33.823 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:18:22.198 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:18:28.605 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-29 22:18:28.681 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:18:30.787 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:18:30.856 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:18:32.948 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:18:38.099 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-29 22:18:42.392 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-29 22:18:46.517 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-29 22:18:46.525 [main] BaseTest - Home Page ~ Salesforce - Developer Edition
+[DEBUG] 2022-09-29 22:18:48.942 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:18:50.391 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:18:52.469 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:18:52.522 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:18:54.564 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:18:58.835 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:18:59.020 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:19:00.594 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:19:02.688 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:19:02.731 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:19:04.785 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:19:09.694 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:26:18.000 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:26:24.378 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-29 22:26:24.453 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:26:26.573 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:26:26.648 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:26:28.743 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:26:37.381 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-29 22:26:41.477 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-29 22:26:45.897 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-29 22:26:45.902 [main] BaseTest - 
+[DEBUG] 2022-09-29 22:26:45.995 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:26:48.087 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:26:50.177 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:26:50.223 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:26:52.276 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:26:56.520 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:26:56.648 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:26:58.321 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:27:00.419 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:27:00.458 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:27:02.520 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:27:08.188 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:28:58.602 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:29:04.964 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-29 22:29:05.042 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:29:07.157 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:29:07.226 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:29:09.301 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:29:14.348 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-29 22:29:19.011 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-29 22:29:29.285 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-29 22:29:29.290 [main] BaseTest - 
+[DEBUG] 2022-09-29 22:29:29.346 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:29:30.879 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:29:32.974 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:29:33.015 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:29:35.071 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:29:39.302 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:29:39.477 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:29:41.476 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:29:43.569 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:29:43.615 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:29:45.663 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:29:50.712 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:33:57.069 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:34:03.342 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-29 22:34:03.420 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:34:05.522 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:34:05.596 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:34:07.678 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:34:13.036 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-29 22:34:18.674 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-29 22:34:22.979 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-29 22:34:29.022 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-29 22:34:29.114 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:34:30.593 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:34:32.679 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:34:32.729 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:34:34.776 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:34:39.046 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-29 22:34:41.580 [main] BaseTest - start get driver
+[INFO ] 2022-09-29 22:34:43.044 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-29 22:34:45.127 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-29 22:34:45.181 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-29 22:34:47.224 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-29 22:34:52.165 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:37:36.222 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:37:43.240 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 06:37:43.317 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:37:45.403 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:37:45.466 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:37:47.544 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:37:52.561 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 06:37:57.347 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 06:38:01.642 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 06:38:07.658 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 06:38:07.749 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:38:09.186 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:38:11.278 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:38:11.320 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:38:13.373 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:38:17.608 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:38:17.789 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:38:19.261 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:38:21.342 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:38:21.397 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:38:23.455 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:38:28.509 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:42:46.684 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:42:52.867 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 06:42:52.948 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:42:55.043 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:42:55.105 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:42:57.189 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:43:02.250 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 06:43:07.520 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 06:43:11.770 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 06:43:17.782 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 06:43:17.871 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:43:19.300 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:43:21.379 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:43:21.433 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:43:23.473 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:43:27.684 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:43:27.836 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:43:30.257 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:43:32.340 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:43:32.391 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:43:34.438 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:43:39.350 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:48:03.323 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:48:09.704 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 06:48:09.779 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:48:11.847 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:48:11.914 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:48:13.989 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:48:18.940 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 06:48:23.246 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 06:48:27.515 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 06:48:33.526 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 06:48:33.617 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:48:34.956 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:48:37.039 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:48:37.094 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:48:39.140 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:48:43.359 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:48:43.537 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:48:46.067 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:48:48.152 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:48:48.205 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:48:50.249 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:48:55.296 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:54:30.098 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:54:36.349 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 06:54:36.431 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:54:38.539 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:54:38.601 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:54:40.668 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:54:45.729 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 06:54:50.963 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 06:54:55.244 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 06:55:01.257 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 06:55:01.344 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:55:02.739 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:55:04.842 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:55:04.894 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:55:06.934 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:55:11.179 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:55:11.302 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:55:12.741 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 06:55:14.805 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 06:55:14.854 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 06:55:16.901 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 06:55:21.852 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 06:59:51.884 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 06:59:58.225 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 06:59:58.301 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:00:00.399 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:00:00.466 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:00:02.556 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:00:09.064 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 07:00:13.596 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 07:00:17.872 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 07:00:23.886 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 07:00:23.998 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:00:25.386 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:00:27.449 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:00:27.488 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:00:29.544 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:00:33.794 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 07:00:33.919 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:00:35.140 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:00:37.204 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:00:37.256 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:00:39.304 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:00:44.223 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 07:05:07.909 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:05:15.987 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 07:05:16.072 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:05:18.179 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:05:18.245 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:05:20.295 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:05:25.367 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 07:05:31.446 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 07:05:35.692 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 07:05:41.704 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 07:05:41.820 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:05:43.458 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:05:45.556 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:05:45.604 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:05:47.648 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:05:51.905 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 07:05:54.379 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:05:55.687 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:05:57.750 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:05:57.789 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:05:59.852 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:06:04.997 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 07:21:40.861 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:21:47.540 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 07:21:47.616 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:21:49.707 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:21:49.771 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:21:51.840 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:21:56.993 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 07:22:01.335 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 07:22:05.591 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 07:22:11.613 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 07:22:11.728 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:22:13.292 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:22:15.393 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:22:15.449 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:22:17.491 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:22:21.757 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 07:22:24.226 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:22:27.520 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:22:29.584 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:22:29.634 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:22:31.693 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:22:36.640 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 07:24:32.774 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:24:39.004 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 07:24:39.079 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:24:41.180 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:24:41.239 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:24:43.329 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:24:48.410 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 07:24:52.968 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 07:24:57.261 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 07:25:03.272 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 07:25:03.389 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:25:06.061 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:25:08.143 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:25:08.183 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:25:10.231 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:25:14.536 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 07:25:14.726 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 07:25:17.595 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 07:25:19.679 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 07:25:19.717 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 07:25:21.780 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 07:25:26.699 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 08:15:41.612 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:15:48.497 [main] BaseTest - forgot password link clicked
+[INFO ] 2022-09-30 08:15:50.615 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:15:52.685 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:15:57.205 [main] BaseTest - continue clicked
+[INFO ] 2022-09-30 08:15:59.215 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-30 08:38:32.834 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:38:39.917 [main] BaseTest - forgot password link clicked
+[INFO ] 2022-09-30 08:38:42.036 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:38:44.131 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:38:48.575 [main] BaseTest - continue clicked
+[INFO ] 2022-09-30 08:38:50.594 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-30 08:38:50.688 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:38:52.430 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:38:54.506 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:38:54.546 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:38:56.603 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:39:00.801 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 08:39:47.690 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:39:55.156 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 08:39:55.234 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:39:57.344 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:39:57.408 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:39:59.484 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:40:05.003 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 08:40:09.808 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 08:40:14.045 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 08:40:20.066 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 08:40:20.107 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:40:25.841 [main] BaseTest - forgot password link clicked
+[INFO ] 2022-09-30 08:40:27.935 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:40:30.040 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:40:34.583 [main] BaseTest - continue clicked
+[INFO ] 2022-09-30 08:40:36.591 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-30 08:40:36.676 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:40:40.079 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:40:42.140 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:40:42.186 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:40:44.246 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:40:48.472 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 08:40:48.664 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:40:51.380 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:40:53.449 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:40:53.490 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:40:55.546 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:40:59.797 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 08:41:00.028 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:41:01.899 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:41:03.994 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:41:04.037 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:41:06.093 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:41:11.049 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 08:45:38.800 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:45:45.087 [main] BaseTest - RememberMe checkbox clicked
+[INFO ] 2022-09-30 08:45:45.168 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:45:47.251 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:45:47.322 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:45:49.389 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:45:54.319 [main] BaseTest - Login button clicked
+[INFO ] 2022-09-30 08:45:58.981 [main] BaseTest - user nav clicked
+[INFO ] 2022-09-30 08:46:03.223 [main] BaseTest - Logout clicked
+[INFO ] 2022-09-30 08:46:09.232 [main] BaseTest - Login | Salesforce
+[DEBUG] 2022-09-30 08:46:09.328 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:46:14.976 [main] BaseTest - forgot password link clicked
+[INFO ] 2022-09-30 08:46:17.059 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:46:19.129 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:46:23.980 [main] BaseTest - continue clicked
+[INFO ] 2022-09-30 08:46:25.992 [main] BaseTest - https://bravestechnology-dev-ed.develop.my.salesforce.com/secur/forgotpassword.jsp
+[DEBUG] 2022-09-30 08:46:26.045 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:46:27.272 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:46:29.330 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:46:29.370 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:46:31.432 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:46:35.640 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 08:46:38.145 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:46:39.662 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:46:41.745 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:46:41.788 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:46:43.842 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:46:48.059 [main] BaseTest - Login button clicked
+[DEBUG] 2022-09-30 08:46:50.542 [main] BaseTest - start get driver
+[INFO ] 2022-09-30 08:46:53.069 [main] BaseTest - text box user name cleared
+[INFO ] 2022-09-30 08:46:55.142 [main] BaseTest - text entered in user name field
+[INFO ] 2022-09-30 08:46:55.201 [main] BaseTest - text box password cleared
+[INFO ] 2022-09-30 08:46:57.257 [main] BaseTest - text entered in password field
+[INFO ] 2022-09-30 08:47:02.166 [main] BaseTest - Login button clicked
