@@ -27,7 +27,7 @@ import org.openqa.selenium.*;
 
 
 public class AutomationScript extends BaseTest {
-	//CommonUtilities cu = new CommonUtilities();
+	//  CommonUtilities cu = new CommonUtilities();
 	
 	@Test
 	public static void loginToSalesForceTC02() throws InterruptedException, IOException {
