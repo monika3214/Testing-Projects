@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Testing salesforce chrome(failed)">
+    <parameter name="browsername" value="chrome"/>
+    <classes>
+      <class name="com.salesforce.automationscript.AutomationScript">
+        <methods>
+          <include name="teardownAfterTest"/>
+          <include name="setup"/>
+          <include name="setUpBeforeTest"/>
+          <include name="loginErrorMessageTC01"/>
+          <include name="checkRememberMeTC03"/>
+          <include name="loginToSalesForceTC02"/>
+          <include name="forgotPasswardTC04B"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.salesforce.automationscript.AutomationScript -->
+    </classes>
+  </test> <!-- Testing salesforce chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

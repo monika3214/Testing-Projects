@@ -1,0 +1,15 @@
+com\salesforce\autimationscript\utility\Constants.class
+com\salesforce\pages\login\ForgotPasswordB.class
+com\steps\SalesforceStepDefinition.class
+com\salesforce\pages\login\ForgotPasswordAPage.class
+com\salesforce\baseclass\BaseTest.class
+com\salesforce\pages\login\CheckYourEmail.class
+com\salesforce\pages\login\LoginPage.class
+com\salesforce\autimationscript\utility\CommonUtilities.class
+com\salesforce\pages\home\HomePage.class
+com\salesforce\automationscript\AutomationScript.class
+com\salesforce\autimationscript\utility\GenerateReports.class
+com\salesforce\pages\login\RemeberMeLoginPage.class
+com\salesforce\pages\login\FailLoginPage.class
+RunnerSalesforce.class
+com\salesforce\pages\base\BasePage.class
