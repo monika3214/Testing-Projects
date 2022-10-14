@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.salesforce.automationscript.AutomationScript">
+        <methods>
+          <include name="mergeAccountTC13"/>
+          <include name="setup"/>
+          <include name="creatAccountReportTC14"/>
+          <include name="testQuarterlySummaryReportTC19"/>
+          <include name="defaultViewTC22"/>
+          <include name="selectDevelopersConsoleTC08"/>
+          <include name="editViewTC12"/>
+          <include name="leadTabTC20"/>
+          <include name="selectMySettingTC07"/>
+          <include name="loginErrorMessageTC01"/>
+          <include name="createNewOptyTC16"/>
+          <include name="creatAccountTC10"/>
+          <include name="forgotPasswardTC04B"/>
+          <include name="opportunitiesDropDownTC15"/>
+          <include name="tearDown"/>
+          <include name="forgotPasswardTC04A"/>
+          <include name="testOpportunityPipelineReportTC17"/>
+          <include name="teardownAfterTest"/>
+          <include name="setUpBeforeTest"/>
+          <include name="selectUsermenuDropdownTC05"/>
+          <include name="creatNewviewTC11"/>
+          <include name="selectMyprofileTC06"/>
+          <include name="checkRememberMeTC03"/>
+          <include name="loginToSalesForceTC02"/>
+          <include name="newOnleadHomeTC24"/>
+          <include name="leadsSelectViewTC21"/>
+          <include name="todaysLeadTC23"/>
+          <include name="selectLogoutTC09"/>
+          <include name="testStuckOpportunitiesReportTC18"/>
+        </methods>
+      </class> <!-- com.salesforce.automationscript.AutomationScript -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
