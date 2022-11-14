@@ -1,0 +1,13 @@
+com\pojo\UserPOJO.class
+com\utilities\GenerateReports.class
+com\utilities\Listener.class
+com\pojo\DeleteUserPOJO.class
+com\pojo\LoginResponsePOJO.class
+com\APItests\APItestScript.class
+com\utilities\Endpoints.class
+com\APItests\UserServiceHelper.class
+com\pojo\LoginPOJO.class
+com\utilities\Constants.class
+com\utilities\CommonUtilities.class
+com\pojo\CreateUserPOJO.class
+com\pojo\UpdateUserPOJO.class
